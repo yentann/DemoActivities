@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoActivities</string>
+    <string name="txtViewName">Name</string>
+    <string name="editTextName" />
+    <string name="txtViewAge">Age</string>
+    <string name="editTextAge" />
+    <string name="btnDone">Done</string>
+</resources>
